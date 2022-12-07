@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33103.184
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleDocsCloneServer", "GoogleDocsCloneServer.csproj", "{0C0B8A2E-2062-4DC9-9B7B-3BCCC72042DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoogleDocsCloneServer", "GoogleDocsCloneServer.csproj", "{0C0B8A2E-2062-4DC9-9B7B-3BCCC72042DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
